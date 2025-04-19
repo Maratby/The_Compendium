@@ -1,0 +1,13 @@
+{
+	"id": "Compendium",
+	"name": "The Compendium",
+	"display_name": "The Compendium",
+	"author": ["Maratby"],
+	"description": "Powerful subjects given a playground to themselves, such that we may one day witness their maximum potential",
+	"prefix": "comp",
+	"main_file": "compendium.lua",
+	"priority": 8,
+	"badge_colour": "ADD8E6",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+}
